@@ -1,5 +1,9 @@
 # Fast exact Myers line diff — diff-speed-01-run-20261126
 
+[![make.fun · diff-speed-01-run-20261126](https://make.fun/badge/diff-speed-01-run-20261126.svg)](https://make.fun/bounty/diff-speed-01-run-20261126?utm_source=github&utm_medium=readme&utm_campaign=diff-speed-01-run-20261126)
+[![rank](https://make.fun/badge/diff-speed-01-run-20261126/mrizki158/diff-speed-01-run-20261126/rank.svg)](https://make.fun/bounty/diff-speed-01-run-20261126/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=diff-speed-01-run-20261126)
+[![reward](https://make.fun/badge/diff-speed-01-run-20261126/mrizki158/diff-speed-01-run-20261126/reward.svg)](https://make.fun/bounty/diff-speed-01-run-20261126?utm_source=github&utm_medium=readme&utm_campaign=diff-speed-01-run-20261126)
+
 A faster drop-in for makefun-diff 1.0.0: `solve.js` returns exactly
 makefun-diff's patch for every `{ old, new }`, and `main.ts` answers every
 case in `/input/cases.json` with it.
